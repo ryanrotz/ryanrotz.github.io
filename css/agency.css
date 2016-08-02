@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/header-bg.jpg');
+  background-color: rgb(255, 0, 102);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -302,6 +302,11 @@ section h3.section-subheading {
   margin: 15px 0;
   text-transform: none;
 }
+
+.skills {
+  list-style-type: none;
+}
+
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
@@ -625,8 +630,10 @@ footer ul.quicklinks {
   text-transform: uppercase;
   text-transform: none;
 }
+
 ul.social-buttons {
   margin-bottom: 0;
+  margin-left: 20px;
 }
 ul.social-buttons li a {
   display: block;
