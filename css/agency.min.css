@@ -34,3 +34,29 @@
  .seattle {
   font-size: 22px;
  }
+
+
+
+ @media (max-width: 767px) {
+  .project-wrapper {
+ /* margin: 0 auto !important;
+  width: 100% !important;*/
+  /*text-align: center !important;*/
+  position: relative;
+  height: 400px;
+}
+  .project-title {
+    display: table-header-group;
+    margin: 0 auto !important;
+    width: 100% !important;
+    position: absolute;
+    top: 0px;
+  }
+  .project-img {
+    display: table-footer-group;
+    margin: 0 auto;
+    width: 100%;
+    position: absolute;
+    top: 145px;
+  }
+ }
