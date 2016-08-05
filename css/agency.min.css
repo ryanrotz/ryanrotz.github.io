@@ -35,7 +35,24 @@
   font-size: 22px;
  }
 
+.resume-links {
+  color: black;
+}
 
+.resume-links:hover,
+.resume-links:active,
+.resume-links:focus {
+  color: white;
+  text-decoration: none;
+}
+
+.resum-links:visited {
+  color: black;
+}
+
+.project-border {
+  border: 1px solid lightgray;
+}
 
  @media (max-width: 767px) {
   .project-wrapper {
@@ -59,4 +76,12 @@
     position: absolute;
     top: 145px;
   }
+ }
+
+ footer {
+  background-color: black;
+ }
+
+ .copyright {
+  color: #fed136;
  }

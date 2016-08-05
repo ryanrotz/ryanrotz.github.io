@@ -1,0 +1,73 @@
+
+Ryan Rotz
+Full-Stack Web Developer
+Seattle, WA
+
+ryanrotz@gmail.com
+www.ryanrotz.com
+https://github.com/ryanrotz
+https://www.linkedin.com/in/ryanrotz000
+
+
+Summary
+
+Full-stack web developer and former marketer who discovered code and couldn't stop building things. I'm passionate about making ideas come to life and love partnering with other developers, as well as designers and executives to make them happen.
+
+
+Technical Skills
+
+Languages: Javascript, Ruby, SQL, HTML5, CSS3, XML
+Frameworks & Libraries: Angular, Rails, Express, Node, jQuery, Bootstrap, Materialize, SVG.js
+Databases and ORMs: PostgreSQL, Sequelize, NoSQL, MongoDB, Mongoose, ActiveRecord
+
+
+Projects
+
+KayakBuddy
+A site for kayakers to find other kayakers. Users can login with Facebook, set up a profile, and contact other users.Role: Authentication, authorization, project management, styling 
+Technologies used: Ruby on Rails, Materialize, HTML, CSS
+
+Name That Emotion
+A game for autistic children to improve social skills by matching a photo with the correct emotion.
+Technologies used: Javascript, jQuery Bootstrap, HTML, CSS
+
+Colordat
+Search for home decor by color. Users enter a color, view home decor products from Amazon, and save products to color boards for later use.
+Technologies used: Javascript, Express.js, Postgres, Sequelize, HTML, CSS, Heroku
+
+
+Professional Experience
+
+Faithlife   Nov 2010 — Jan 2016
+Marketing Department
+
+Marketing Strategist, Logos Mobile Education
+- Increased revenue 50% year over year.
+- Created the business plan for the company's first video-subscription service.
+
+Director, Kirkdale Press
+- Started the company's first publishing imprint.
+- Spearheaded the creation of the brand’s website, including planning, writing all content, overseeing design and development, and managing timelines and budgets.
+- Made regular presentations to the CEO.
+- Published the #5 best-selling book on iTunes in its category—in our first year.
+
+Product Promotion Specialist, Logos Pre-Pub and Community Pricing
+- Increased pre-orders 11.7% year over year.
+- Increased user participation 80.6% and 23.7%.
+- Increased revenue growth from 4.5% to 33.5%.
+
+Rotz Consulting   2009 — 2010
+Social Media Marketing Consultant
+
+SuperNack, LLC   2010
+CEO
+
+
+Education
+
+General Assembly   May 2016 — Aug 2016
+Web Development Immersive Student
+Developed full-stack web applications 12 hours a day for 12 weeks.
+
+Whatcom Community College   2010
+AA, Business
