@@ -31,6 +31,10 @@
   background-color: #fed136;
  }
 
+ .bg-pink {
+  background-color: rgb(255, 0, 102);
+ }
+
  .seattle {
   font-size: 22px;
  }
