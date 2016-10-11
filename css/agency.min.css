@@ -78,8 +78,16 @@
     margin: 0 auto;
     width: 100%;
     position: absolute;
-    top: 145px;
+    top: 158px;
+    /*padding-top: 30px;*/
   }
+ }
+
+ @media (max-width: 400px) {
+  .project-img {
+    padding-top: 45px;
+  }
+
  }
 
  footer {
