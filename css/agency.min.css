@@ -81,11 +81,17 @@
     top: 158px;
     /*padding-top: 30px;*/
   }
+  .rotate-me {
+    top: 252px;
+  }
  }
 
  @media (max-width: 400px) {
   .project-img {
     padding-top: 45px;
+  }
+  .rotate-me {
+    padding-top: 50px;
   }
 
  }
