@@ -16,24 +16,23 @@ Full-stack web developer and former marketer who discovered code and couldn't st
 
 Technical Skills
 
-Languages: Javascript, Ruby, SQL, HTML5, CSS3, XML
-Frameworks & Libraries: Angular, Rails, Express, Node, jQuery, Bootstrap, Materialize, SVG.js
-Databases and ORMs: PostgreSQL, Sequelize, NoSQL, MongoDB, Mongoose, ActiveRecord
+Languages: JavaScript, Ruby, SQL, HTML5, CSS3, XMLFrameworks & Libraries: Angular, React, Rails, Express, Node, jQuery, Bootstrap, Materialize, SVG.js, Ionic, WordPressDatabases and ORMs: PostgreSQL, Sequelize, NoSQL, MongoDB, Mongoose, ActiveRecord
 
 
 Projects
 
 KayakBuddy
-A site for kayakers to find other kayakers. Users can login with Facebook, set up a profile, and contact other users.Role: Authentication, authorization, project management, styling 
-Technologies used: Ruby on Rails, Materialize, HTML, CSS
-
-Name That Emotion
-A game for autistic children to improve social skills by matching a photo with the correct emotion.
-Technologies used: Javascript, jQuery Bootstrap, HTML, CSS
+A site for kayakers to find other kayakers. Users can login with Facebook, set up a profile, and contact other users.
+Role: Authentication, authorization, project management, styling 
+Technologies: Ruby on Rails, Materialize, HTML, CSS, Heroku
 
 Colordat
 Search for home decor by color. Users enter a color, view home decor products from Amazon, and save products to color boards for later use.
-Technologies used: Javascript, Express.js, Postgres, Sequelize, HTML, CSS, Heroku
+Technologies: JavaScript, Node, Express.js, Postgres, Sequelize, HTML, CSS, Bootstrap, Heroku, Amazon API
+
+Name That Emotion
+A game for children with autism to improve social skills by matching a photo with the correct emotion.
+Technologies: JavaScript, jQuery, Bootstrap, HTML, CSS, Bootstrap
 
 
 Professional Experience
@@ -44,10 +43,11 @@ Marketing Department
 Marketing Strategist, Logos Mobile Education
 - Increased revenue 50% year over year.
 - Created the business plan for the company's first video-subscription service.
+- Trained marketing team to use HTML, CSS, and JavaScript to create product pages with custom video players.
 
 Director, Kirkdale Press
 - Started the company's first publishing imprint.
-- Spearheaded the creation of the brand’s website, including planning, writing all content, overseeing design and development, and managing timelines and budgets.
+- Project managed the creation of the brand’s website, including planning, writing all content, overseeing design and development, and managing timelines and budgets.
 - Made regular presentations to the CEO.
 - Published the #5 best-selling book on iTunes in its category—in our first year.
 
@@ -67,7 +67,7 @@ Education
 
 General Assembly   May 2016 — Aug 2016
 Web Development Immersive Student
-Developed full-stack web applications 12 hours a day for 12 weeks.
+Developed full-stack web applications in an agile environment 12 hours a day for 12 weeks.
 
 Whatcom Community College   2010
 AA, Business

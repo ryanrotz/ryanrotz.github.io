@@ -39,19 +39,28 @@
   font-size: 22px;
  }
 
+.resume-icon {
+  color: black;
+  padding-left: 0px;
+  padding-right: 5px;
+}
+
+.resume-icon:hover {
+  color: white;
+}
+
 .resume-links {
   color: black;
 }
 
-.resume-links:hover,
-.resume-links:active,
 .resume-links:focus {
-  color: white;
+  color: black;
   text-decoration: none;
 }
-
-.resum-links:visited {
-  color: black;
+.resume-links:hover,
+.resume-links:active {
+  color: white;
+  text-decoration: none;
 }
 
 .project-border {
