@@ -6,12 +6,14 @@
 
  .skills {
   list-style-type: none;
+  width: 50%;
+  margin: auto;
  }
 
  .skills li {
   color: black;
   text-align: left;
-  margin-left: 34%; 
+  /*margin-left: 34%; */
  }
 
  header {
@@ -68,6 +70,11 @@
 }
 
  @media (max-width: 767px) {
+  .skills {
+    /*margin-left: 20%;*/
+  }
+
+
   .project-wrapper {
  /* margin: 0 auto !important;
   width: 100% !important;*/
