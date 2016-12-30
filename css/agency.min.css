@@ -106,6 +106,18 @@
 
 @media (max-width: 767px) {
 
+  header .intro-text .intro-lead-in {
+    font-size: 21px;
+  }
+
+  header .intro-text .intro-heading {
+    font-size: 40px;
+  }
+
+  .seattle {
+    font-size: 16px;
+  }
+
   .skills li {
       margin-left: 40%;
    }
@@ -116,7 +128,7 @@
   /*text-align: center !important;*/
   position: relative;
   height: 545px;
-}
+  }
   .project-title {
     display: table-header-group;
     margin: 0 auto !important;
@@ -131,6 +143,14 @@
     position: absolute;
     top: 134px;
     /*padding-top: 30px;*/
+  }
+
+  .kayak-buddy, .colordat, .this-week {
+    position: relative;
+  }
+
+  .this-week-top {
+    padding-top: 40px;
   }
 
   .hackathon {
