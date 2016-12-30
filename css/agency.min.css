@@ -25,10 +25,6 @@
   display: relative;
  }
 
- /*.bg-light-gray {
-  background-color: #2EC4B6;
- }*/
-
 .bg-teal {
   background-color: #2EC4B6;
 }
@@ -80,6 +76,10 @@
 
 .project-img:hover {
   opacity: .7;
+}
+
+.project-img-wrapper {
+  top: 20px;
 }
 
  footer {
@@ -145,7 +145,7 @@
   }
 
   .rotate-me {
-    top: 245px;
+    top: 277px;
   }
  }
 
